@@ -2,11 +2,19 @@ package poo;
 
 public class Car {
 	
-	String make = "Ford";
-	String model = "Mustang";
-	String color = "red";
-	int year = 2021;
-	double price = 50000.00;
+	String make;
+	String model;
+	String color;
+	int year;
+	double price;
+	
+	Car(){
+		
+	}
+	
+	Car(String model){
+		this.model = model;
+	}
 	
 	public String toString() {
 		return make +"\n"+model+"\n"+color+"\n"+year;
