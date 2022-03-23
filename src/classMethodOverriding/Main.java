@@ -1,5 +1,5 @@
 /*
- * Classes da aula sobre Herança
+ * Classe da aula Method Overriding
  * 22/03/2022
  * Todos os direitos autorais para Davi Souto e BroCode
  */
