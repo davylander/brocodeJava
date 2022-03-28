@@ -25,12 +25,12 @@ public class Main {
 			System.out.println(file.getPath());
 			System.out.println(file.getAbsolutePath());
 			System.out.println(file.isFile());
-			file.delete();
+			//file.delete();
 		}
 		else {
 			System.out.println("That fle doesn't exist! :(");
 		}
-
+	
 	}
 
 }
