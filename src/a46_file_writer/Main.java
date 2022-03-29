@@ -22,7 +22,7 @@ public class Main {
 			FileWriter writer = new FileWriter("poem.txt");
 			writer.write("Roses are red \n"
 					+ "Violets are blue \n"
-					+ "Booty booty booty \n"
+					+ "Booty booty booty and booooty \n"
 					+ "Rockin' everywhere!");
 			writer.append("\n(A poem by DavyBro)");
 			writer.close();
