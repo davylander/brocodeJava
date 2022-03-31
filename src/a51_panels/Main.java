@@ -27,7 +27,7 @@ public class Main {
 		ImageIcon icon = new ImageIcon("E:\\Java\\Livro Caixa icons\\check32.PNG");
 		
 		JLabel label = new JLabel();
-		label.setText("Hi!");
+		label.setText("Pq isso tá acontecendo?!");
 		label.setIcon(icon);
 		//label.setVerticalAlignment(JLabel.BOTTOM);
 		//label.setHorizontalAlignment(JLabel.RIGHT);
