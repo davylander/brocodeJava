@@ -23,7 +23,7 @@ public class MyThread extends Thread{
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			System.out.println(1/0);
+			//System.out.println(1/0);
 		}
 		System.out.println("Thread #1 is finished :D");
 	}
